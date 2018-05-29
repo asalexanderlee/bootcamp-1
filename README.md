@@ -6,7 +6,23 @@ By the end of the bootcamp, students should have the skills and competencies to 
 
 ## Learning Schedule
 
-## Daily Schedule
+### Week 1
+
+* Advanced Javascript
+* MongoDB, Mongo Shell, Mongoose
+* RESTful architecture, APIs
+* Introduction to express
+* Express Routing
+
+### Week 2
+
+* Sessions, Cookies, Headers, HTTP Parsing
+* React: flux, JSX, state, props
+* React: component lifecycle
+* React: advanced concepts
+* Redux
+
+## Typical Daily Schedule
 
 * _9am-12pm_ Breakout lectures, general conversations about code, begin peer programming.
 * _12pm-1pm_ Lunch
@@ -39,8 +55,8 @@ function getGoogle() {
 }
 ```
 
-1. What is a promise?
-1. What is a Promise.all?
+1. What is a [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)?
+1. What is Promise.all?
 1. What is a callback?
 1. What is an arrow function? What's different about arrow functions?
 1. What is going on here?
@@ -51,6 +67,8 @@ let addFiveDigits = a => b => c => d => e => a + b + c + d + e;
 addFiveDigits(1)(1)(1)(1)(1);
 ```
 
+1. Whats the difference between `const`, `var`, `let`?
+1. What are object prototypes?
 1. What are higher order components (HOAs)?
 
 ## Release 1 (on your own)
@@ -68,4 +86,6 @@ fetch().then(() => {
 });
 ```
 
-1. Write a function that takes as arguments an arbitrary period of time (in milliseconds) and an arbitrary function that it executes after the specified period of time.
+1. For the previous three functions, use [console.time()](https://developer.mozilla.org/en-US/docs/Web/API/Console/time) to benchmark the speed of all three promises. What do you notice?
+1. Write a function that takes as arguments an arbitrary period of time (in milliseconds) and an arbitrary function that it executes after the specified period of time. (This is a callback.)
+1. Write a Promise that resolves after 4000 milliseconds.
