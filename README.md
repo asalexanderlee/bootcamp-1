@@ -39,7 +39,17 @@ By the end of the bootcamp, students should have the skills and competencies to 
 * Install Atom, Sublime, or other IDE
 * Install Firefox
 
-## Javascript 101
+---
+
+## Day 1 Warmup
+
+### Breakouts
+
+* GitHub, Git, .gitignore
+* npm, yarn, and package management
+* require, import, exports
+
+### Javascript 101
 
 0. What is asynchronocity? Why is it important? https://stackoverflow.com/questions/748175/asynchronous-vs-synchronous-execution-what-does-it-really-mean
 
@@ -71,7 +81,7 @@ addFiveDigits(1)(1)(1)(1)(1);
 1. What are object prototypes?
 1. What are higher order components (HOAs)?
 
-## Release 1 (on your own)
+### Release 1 (on your own)
 
 0. Write a function that fetches the html from https://www.nytimes.com/ and then writes the return value (which should just be HTML) to the console.
 1. Write a function that fetches the HTML from five major news sources all at once, then concatenates the HTML from the sites into one long string. (Hint: Promise.all)
