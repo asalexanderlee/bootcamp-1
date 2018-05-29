@@ -35,6 +35,7 @@ By the end of the bootcamp, students should have the skills and competencies to 
 * Download NodeJS > 8.0
 * Download and start MongoDB Community Edition
 * Download MongoDB Compass
+* Install Postman
 * Install Terminal or iTerm
 * Install Atom, Sublime, or other IDE
 * Install Firefox
