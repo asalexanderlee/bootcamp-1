@@ -79,7 +79,7 @@ addFiveDigits(1)(1)(1)(1)(1);
 
 1. Whats the difference between `const`, `var`, `let`?
 1. What are object prototypes?
-1. What are higher order components (HOAs)?
+1. What are higher order components (HOCs)?
 
 ### Release 1 (on your own)
 
