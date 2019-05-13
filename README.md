@@ -37,20 +37,31 @@ By the end of the bootcamp, students should have the skills and competencies to 
 * Download MongoDB Compass
 * Install Postman
 * Install Terminal or iTerm
-* Install Atom, Sublime, or other IDE
-* Install Firefox
+* Install Atom, VSCode, or other IDE
 
 ---
 
-## Day 1 Warmup
+# Day 1
 
-### Breakouts
+### Javascript Review
+Exercise: (TODO)
 
-* GitHub, Git, .gitignore
-* npm, yarn, and package management
-* require, import, exports
+### Git & GitHub
 
-### Javascript 101
+*Exercise:*
+Visit *(https://learngitbranching.js.org/)[https://learngitbranching.js.org/]* and complete exercises 1, 2, and 3
+
+*Exercise:*
+1. Clone the GitHub repository at (TODO)
+2. Checkout a new branch called *your_name*
+3. Use your IDE to change title of readme to *{your name}’s Bootcamp Overview*
+4. Stage and commit your changes
+5. Push your branch up to the remote
+
+### Package/Dependency Management
+(TODO)
+
+### More Javascript
 
 0. What is asynchronocity? Why is it important? https://stackoverflow.com/questions/748175/asynchronous-vs-synchronous-execution-what-does-it-really-mean
 
@@ -67,10 +78,10 @@ function getGoogle() {
 ```
 
 1. What is a [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)?
-1. What is Promise.all?
-1. What is a callback?
-1. What is an arrow function? What's different about arrow functions?
-1. What is going on here?
+2. What is Promise.all?
+3. What is a callback?
+4. What is an arrow function? What's different about arrow functions?
+5. What is going on here?
    Can you rewrite with function() instead of => ?
 
 ```javascript
@@ -78,9 +89,8 @@ let addFiveDigits = a => b => c => d => e => a + b + c + d + e;
 addFiveDigits(1)(1)(1)(1)(1);
 ```
 
-1. Whats the difference between `const`, `var`, `let`?
-1. What are object prototypes?
-1. What are higher order components (HOCs)?
+6. What are object prototypes?
+7. What are higher order components (HOCs)?
 
 ### Release 1 (on your own)
 
