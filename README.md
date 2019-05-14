@@ -44,22 +44,42 @@ By the end of the bootcamp, students should have the skills and competencies to 
 # Day 1
 
 ### Javascript Review
-Exercise: (TODO)
+*Review:* [Pre-bootcamp exercise](https://jsbin.com/lekihiyiqe/1/edit?js,console)
+*Exercise:* (TODO)
+
+### Terminal
+Search the web in order to perform the following exercises in your terminal:
+1. Change to the Documents directory with 'cd folder_name'
+2. List out all of the files in that folder with 'ls'
+3. Create a new folder and cd to your new folder
+4. Create a new file, then immediately delete it
+5. Delete the file you just created
+6. Return to your home directory (~)
+7. cd to your newly created folder using only 1 command
 
 ### Git & GitHub
 
 *Exercise:*
-Visit *(https://learngitbranching.js.org/)[https://learngitbranching.js.org/]* and complete exercises 1, 2, and 3
+Visit *[https://learngitbranching.js.org/](https://learngitbranching.js.org/)* and complete exercises 1, 2, and 3
 
 *Exercise:*
-1. Clone the GitHub repository at (TODO)
+1. Clone this GitHub repository
 2. Checkout a new branch called *your_name*
 3. Use your IDE to change title of readme to *{your name}’s Bootcamp Overview*
 4. Stage and commit your changes
 5. Push your branch up to the remote
 
+*Brainstorm*
+**Q:** Can you think of ways to organize your git repositories and branches in order to facilitate collaboration over the summer? (For instance: do you each have a branch under your name? or do you create a new branch for every new feature?)
+
 ### Package/Dependency Management
-(TODO)
+
+1. What is npm and how does it work?
+2. What are some examples of other package management tools?
+3. What's the purpose of package.json? package-lock.json?
+4. Why do you have a folder called node_modules? 
+
+*I would recommend trying to initialize npm in your cloned repository for practice*
 
 ### More Javascript
 
