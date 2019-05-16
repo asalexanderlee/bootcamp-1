@@ -97,7 +97,7 @@ function getGoogle() {
 }
 ```
 
-1. What is a [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)?
+1. What is a [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)? (+ [Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises))
 2. What is Promise.all?
 3. What is a callback?
 4. What is an arrow function? What's different about arrow functions?
@@ -111,6 +111,11 @@ addFiveDigits(1)(1)(1)(1)(1);
 
 6. What are object prototypes?
 7. What are higher order components (HOCs)?
+
+*If you want more practice with promises, here is a good resource: https://www.codingame.com/playgrounds/347/javascript-promises-mastering-the-asynchronous/some-pratice*
+
+#### Node.js
+Take some time to read through this article and understand the concepts: [What is Node.js?](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5) 
 
 ### Release 1 (on your own)
 
