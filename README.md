@@ -48,14 +48,14 @@ By the end of the bootcamp, students should have the skills and competencies to 
 *Exercise:* (TODO)
 
 ### Terminal
-Search the web in order to perform the following exercises in your terminal:
-1. Change to the Documents directory with 'cd folder_name'
-2. List out all of the files in that folder with 'ls'
-3. Create a new folder and cd to your new folder
-4. Create a new file, then immediately delete it
-5. Delete the file you just created
+*Exercise:*
+1. Change to the Documents directory with `cd folder_name`
+2. List out all of the files in that folder with `ls`
+3. Create a new folder (`mkdir`) and `cd` to your new folder
+4. Create a new file (`touch`)
 6. Return to your home directory (~)
-7. cd to your newly created folder using only 1 command
+7. `cd` to your newly created folder using only 1 command
+8. Delete the file you created in #4 (`rm`)
 
 ### Git & GitHub
 
