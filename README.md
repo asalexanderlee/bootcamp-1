@@ -129,4 +129,4 @@ Take some time to read through this article and understand the concepts: [What i
 
 ### Release 1 (on your own)
 
-In your local branch of this repository, complete the exercises in the asyncExamples.js file. To run your javascript, `cd` into your repository in terminal and run `node filename.js` (you can also write javascript directly in your terminal by typing `node` to start a session and `.exit` to exit). When you're finished, please commit your changes and push up your branch to the origin. 
+In your local branch of this repository, complete the exercises in the [asyncExamples.js](https://github.com/asalexanderlee/bootcamp-1/blob/master/asyncExamples.js) file. To run your javascript, `cd` into your repository in terminal and run `node filename.js` (you can also write javascript directly in your terminal by typing `node` to start a session and `.exit` to exit). When you're finished, please commit your changes and push up your branch to the origin. 
