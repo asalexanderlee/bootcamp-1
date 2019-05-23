@@ -1,4 +1,4 @@
-# Grace's Bootcamp Overview
+# Bootcamp Overview
 
 ## Goal
 
@@ -76,7 +76,7 @@ Can you think of ways to organize your git repositories and branches in order to
 1. What is npm and how does it work?
 2. What are some examples of other package management tools?
 3. What's the purpose of package.json? package-lock.json?
-4. Why do you have a folder called node_modules?
+4. Why do you have a folder called node_modules? 
 
 *I would recommend trying to initialize npm in your cloned repository for practice*
 
@@ -125,8 +125,8 @@ addFiveDigits(1)(1)(1)(1)(1);
 *If you want more practice with promises, here is a good resource: https://www.codingame.com/playgrounds/347/javascript-promises-mastering-the-asynchronous/some-pratice*
 
 #### Node.js
-Take some time to read through this article and understand the concepts: [What is Node.js?](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5)
+Take some time to read through this article and understand the concepts: [What is Node.js?](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5) 
 
 ### Release 1 (on your own)
 
-In your local branch of this repository, complete the exercises in the [asyncExamples.js](https://github.com/asalexanderlee/bootcamp-1/blob/master/asyncExamples.js) file. To run your javascript, `cd` into your repository in terminal and run `node filename.js` (you can also write javascript directly in your terminal by typing `node` to start a session and `.exit` to exit). When you're finished, please commit your changes and push up your branch to the origin.
+In your local branch of this repository, complete the exercises in the [asyncExamples.js](https://github.com/asalexanderlee/bootcamp-1/blob/master/asyncExamples.js) file. To run your javascript, `cd` into your repository in terminal and run `node filename.js` (you can also write javascript directly in your terminal by typing `node` to start a session and `.exit` to exit). When you're finished, please commit your changes and push up your branch to the origin. 
